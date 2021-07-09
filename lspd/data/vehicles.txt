@@ -1,0 +1,15 @@
+08pdcvpi = hp1
+11pdcvpi = hp2
+14pdcharger = hp3
+15pdfpiu = hp4
+15pdfpis = hp5
+16pdfpiu = hp6
+11pdcvpis = hp7
+15pdfpiss = hp8
+15pdfpius = hp9
+16pdfpius = hp10
+sbearcat = sbearcat
+mcu = mcu
+20pdfpiu = hp11
+20pdfpius = hp12
+00pdtahoe = hp13
