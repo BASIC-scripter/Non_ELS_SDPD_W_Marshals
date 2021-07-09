@@ -1,0 +1,71 @@
+2015 Ford Explorer
+- Base Model Provided by VooDoo of GTA 5 Mod Center
+
+- Center Dash, Steering Wheel, Wheel and Tire, Gauge Cluster Provided by OfficerUnderwood
+
+- Seats, Dash, Door Panels Provided by The Hurk
+
+- Molded Together by SoCal Thero
+
+- Template UV Mapped by SoCal Thero
+
+
+Interior Parts:
+- Console and Laptop Pack by Twurtleee
+
+- Partition Pack by Twurtleee
+
+-Coban EDGE Modeled,Textured and UV mapped by Dan with da van
+
+-Motorola APX 6500 Modeled, Textured and UV mapped by Dan with da van
+
+-Federal Signal siren controller modeled and textured by Cj24.
+
+-Motorola MW810 modeled and textured by Cj24.
+
+-Rockwell Collins Laptop and Keyboard Made & Converted by Bxbugs123
+- Textures By Bxbugs123 & DoTTGaMMa
+
+- Lojack scratch modeled by Five0/OfficerFive0
+- Lojack antennas scratch modeled by Five0/OfficerFive0
+- Lojack Texture by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+-Magnetic Mic scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+- Traffic Advisor Controller by Sethnord
+
+- Spotlight Created By Turn10Studios; Converted And Edited By Shmurda
+- Textures By Shmurda
+
+- Proguard Gun Mount by BlackJesus
+
+- M4 original Base got off turbosquid
+converted by (Warren) aka Me
+
+- Shotgun From Rockstar Games Converted
+by SoCal Thero
+
+Exterior Parts:
+- Generic antenna pack -
+All Credits: Billy J modifications
+Model: Billy J modifications
+Textures: Billy J modifications
+
+-Antennas Plus LTE Cell PCS GPS scratch modeled by Five0/OfficerFive0
+-converted to gta 5 by Five0/OfficerFive0
+
+- Sentina PB400 by EknJack
+
+Lighting Components:
+-Federal Signal Arjent S2 modeled and textured by RobertTM, Emissives by Cj24.
+
+Special thanks to Five0 for all of his help!
+
+- FS Spectralux ILS modeled and textured by Cj24.
+
+- FS CN SignalMaster modeled and textured by Cj24.
+
+- FS MicroPulse modeled and textured by Cj24.
+

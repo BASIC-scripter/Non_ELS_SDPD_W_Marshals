@@ -1,0 +1,51 @@
+Mobile Command Unit for SWAT
+- Pierce Arrow XT Truck by 0taku
+- UV Map Template and Dirt Mapping by SoCal Thero
+- Modification and Alteration for MCU by SoCal Thero
+
+
+Interior Parts:
+- Office Chair by Rockstar Games Converted
+by SoCal Thero
+
+- Desk  by Rockstar Games Converted
+by SoCal Thero
+
+- Computer  by Rockstar Games Converted
+by SoCal Thero
+
+- CCTV Monitors  by Rockstar Games Converted
+by SoCal Thero
+
+- Whiteboard  by Rockstar Games Converted
+by SoCal Thero
+
+- Pin board  by Rockstar Games Converted
+by SoCal Thero
+
+- Motorolla In Car Speaker by dunkboi
+
+-Motorola APX 6500 Modeled, Textured and UV mapped by Dan with da van
+
+-Federal Signal siren controller modeled and textured by Cj24.
+
+-Magnetic Mic scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+Exterior Parts:
+- Generic antenna pack -
+All Credits: Billy J modifications
+Model: Billy J modifications
+Textures: Billy J modifications
+
+-Antennas Plus LTE Cell PCS GPS scratch modeled by Five0/OfficerFive0
+-converted to gta 5 by Five0/OfficerFive0
+
+
+Lighting Components:
+- Cod3 X21 TR by RoegonTV
+
+- FS MicroPulse modeled and textured by Cj24.
+
+- Federal Signal QuadraFlare Pack by Tomcat8492
+

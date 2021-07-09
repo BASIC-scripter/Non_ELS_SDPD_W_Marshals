@@ -1,0 +1,77 @@
+- 2013 Charger SRT8 from Forza Horizon
+- Converted and textured by Thehurk
+- Converted to PPV by Thehurk
+- Templated by Thehurk
+- Taillight textures by Five0
+- Dodge Charger Steelie by Matt/Peralta
+- L4 model by BxBugs123
+- Further edits and overhaul by KLE0, including improved headlights, taillights, marker lights, new dirtmap, dials, buttons, remapped and smoothed dash, seats and floor, and more.
+- Other bug fixes and optimizations by KLE0.
+
+Goodyear Eagle RS-A
+- Textures by Robert
+- Original tire model by Matt
+- Tire remapping and wisdom from Cj24
+- Special thanks to GeorgieMoon, Matt and Cartres for their help
+
+Additional acknowledgments
+- Thank you Thehurk for releasing the original base for free for people to enjoy
+- Thank you TacticalDonut for helping me beta-testing and finding bugs that I would have otherwise missed!
+- Thank you RobertTM for allowing me to include the tire with the base! Check out more of his content on modding forum: https://www.modding-forum.com/forums/thread/428-dev-goodyear-eagle-rs-a-v1-5rsa-final/
+
+
+Interior Parts:
+- Console and Laptop Pack by Twurtleee
+
+- Partition Pack by Twurtleee
+
+-Coban EDGE Modeled,Textured and UV mapped by Dan with da van
+
+-Motorola APX 6500 Modeled, Textured and UV mapped by Dan with da van
+
+Federal Signal siren controller modeled and textured by Cj24.
+
+- In Dash Screen Created by SoCal Thero
+
+-Rockwell Collins Laptop and Keyboard Made & Converted by Bxbugs123
+- Textures By Bxbugs123 & DoTTGaMMa
+
+- Lojack scratch modeled by Five0/OfficerFive0
+- Lojack antennas scratch modeled by Five0/OfficerFive0
+- Lojack Texture by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+-Magnetic Mic scratch modeled by Five0/OfficerFive0
+converted to gta 5 by Five0/OfficerFive0
+
+- Traffic Advisor Controller by Sethnord
+
+- Spotlight Created By Turn10Studios; Converted And Edited By Shmurda
+- Textures By Shmurda
+
+- Proguard Gun Mount by BlackJesus
+
+- M4 original Base got off turbosquid
+converted by (Warren) aka Me
+
+- Shotgun From Rockstar Games Converted
+by SoCal Thero
+
+Exterior Parts:
+- Generic antenna pack -
+All Credits: Billy J modifications
+Model: Billy J modifications
+Textures: Billy J modifications
+
+-Antennas Plus LTE Cell PCS GPS scratch modeled by Five0/OfficerFive0
+-converted to gta 5 by Five0/OfficerFive0
+
+Setina PB200 by 0taku
+
+Lighting Components:
+-Federal Signal Arjent S2 modeled and textured by RobertTM, Emissives by Cj24.
+
+Special thanks to Five0 for all of his help!
+
+-FS MicroPulse modeled and textured by Cj24.
+
